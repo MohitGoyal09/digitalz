@@ -1,0 +1,4 @@
+course_code,title,length,priority,available_blocks,unavailable_blocks,minimum_section_size,target_section_size,maximum_section_size,number_of_sections,total_credits
+DEBIO101,Dual Enrollment Biology 101,1,Core course,2B,"1A, 1B, 2A, 3, 4A, 4B",7,15,26,1,0.5
+DESOCWCIV2,Dual Enrollment World Civ. 151,1,Core course,"2A, 2B","1A, 1B, 3, 4A, 4B",7,20,26,1,0.5
+DEWCIV1,Dual Enrollment World Civ. 101,1,Core course,"2A, 2B","1A, 1B, 3, 4A, 4B",7,20,26,1,0.5

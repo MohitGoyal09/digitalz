@@ -1,0 +1,1253 @@
+college_year,request_start_term,title,type,student_id,course_id,length,course_code,priority,department(s),credits
+2nd Year,First term,Bible 10,Required,5407488,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5407488,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Alg II Honors,Requested,5407488,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Physical Science,Requested,5407488,278099,2,SCIPHY,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5407488,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Spanish III,Requested,5407488,278066,2,LANSP3,Core course,Foreign Language,1
+2nd Year,First term,Digital Imaging & Editing,Requested,5407488,278113,1,TECHDIGIT,Core course,Technology,0.5
+2nd Year,Second Term,Graphic Design,Requested,5407488,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+2nd Year,First term,Chemistry Honors,Recommended,5407488,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics Honors,Recommended,5407488,278101,2,SOC10GOVH,Core course,Social Studies,1
+1st Year,First term,English 9,Requested,5361799,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5361799,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,Biology Honors,Requested,5361799,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,US History,Required,5361799,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Spanish I,Requested,5361799,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,Second Term,Graphic Design,Requested,5361799,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+1st Year,First term,Digital Imaging & Editing,Requested,5361799,278113,1,TECHDIGIT,Core course,Technology,0.5
+1st Year,First term,Geometry Honors,Requested,5361799,278076,2,MATGEOMH,Core course,Mathematics,1
+3rd year,First term,Bible 11,Required,5361901,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361901,278051,2,ENG11,Core course,English,1
+3rd year,First term,Physical Science,Requested,5361901,278099,2,SCIPHY,Core course,Science,1
+3rd year,First term,World History,Requested,5361901,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Algebra II,Requested,5361901,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Spanish II,Requested,5361901,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,Any term,Health - High ,Requested,5361901,278087,1,PEHealthHS,Core course,Physical Education,0.5
+3rd year,First term,US History,Recommended,5361901,278106,2,SOC9,Core course,Social Studies,1
+3rd year,Any term,Physical Education - High ,Requested,5361901,278088,1,PEHS,Core course,Physical Education,0.5
+3rd year,First term,Bible 11,Required,5361882,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5361882,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Trig/Pre-Calculus Hon,Requested,5361882,278083,2,MATTrigH,Core course,Mathematics,1
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5361882,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,Anatomy & Physiology,Requested,5361882,278093,1,SCIANATPH,Elective,Science,0.5
+3rd year,First term,Studio Art I,Requested,5361882,278032,1,ARTSTD1,Core course,Fine Arts,0.5
+3rd year,Second Term,Studio Art II,Requested,5361882,278033,1,ARTSTD2,Core course,Fine Arts,0.5
+3rd year,First term,Trig/PreCalculus,Recommended,5361882,278082,2,MATTRIG,Core course,Mathematics,1
+3rd year,First term,World History,Recommended,5361882,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Spanish III,Requested,5361882,278066,2,LANSP3,Core course,Foreign Language,1
+3rd year,Second Term,Marine Biology,Requested,5361882,278098,1,SCIMABIO,Elective,Science,0.5
+4th Year,First term,Bible 12,Required,5361922,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment English 151,Requested,5361922,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Dual Enrollment Biology 101,Requested,5361922,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,Trig/PreCalculus,Requested,5361922,278082,2,MATTRIG,Core course,Mathematics,1
+4th Year,First term,Yearbook,Requested,5361922,278116,2,TECHYEAR,Elective,Technology,1
+4th Year,First term,Study Hall,Requested,5361922,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Executive Internship I,Requested,5361922,288569,1,INTERN1,Elective,Career Study,0.5
+4th Year,Second Term,Executive Internship II,Requested,5361922,288570,1,INTERN2,Elective,Career Study,0.5
+4th Year,First term,Chemistry Honors,Recommended,5361922,278096,2,SCICHEM10H,Core course,Science,1
+4th Year,Any term,Financial Literacy,Requested,5361922,278063,1,FINLIT,Core course,Social Studies,0.5
+4th Year,Second Term,World Literature Honors,Requested,5361922,278054,1,ENG12WORLDH,Core course,English,0.5
+2nd Year,First term,Bible 10,Required,5361842,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361842,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Alg II Honors,Requested,5361842,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Chemistry Honors,Requested,5361842,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics Honors,Requested,5361842,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Spanish II,Requested,5361842,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Health - High ,Requested,5361842,278087,1,PEHealthHS,Core course,Physical Education,0.5
+2nd Year,First term,English 10 Honors,Recommended,5361842,278050,2,ENG10H,Core course,English,1
+2nd Year,Any term,Physical Education - High ,Requested,5361842,278088,1,PEHS,Core course,Physical Education,0.5
+3rd year,First term,Bible 11,Required,5361905,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5361905,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Trig/Pre-Calculus Hon,Requested,5361905,278083,2,MATTrigH,Core course,Mathematics,1
+3rd year,First term,World History,Requested,5361905,278102,2,SOC11,Core course,Social Studies,1
+3rd year,Second Term,Marine Biology,Requested,5361905,278098,1,SCIMABIO,Elective,Science,0.5
+3rd year,First term,Anatomy & Physiology,Requested,5361905,278093,1,SCIANATPH,Elective,Science,0.5
+3rd year,First term,Spanish III,Requested,5361905,278066,2,LANSP3,Core course,Foreign Language,1
+3rd year,First term,Studio Art I,Requested,5361905,278032,1,ARTSTD1,Core course,Fine Arts,0.5
+3rd year,Second Term,Studio Art II,Requested,5361905,278033,1,ARTSTD2,Core course,Fine Arts,0.5
+3rd year,First term,Trig/PreCalculus,Recommended,5361905,278082,2,MATTRIG,Core course,Mathematics,1
+2nd Year,First term,Bible 10,Required,5361867,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5361867,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Alg II Honors,Requested,5361867,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Chemistry Honors,Requested,5361867,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics Honors,Requested,5361867,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Spanish II,Requested,5361867,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Band - High ,Requested,5361867,278023,2,ARTBND,Core course,Fine Arts,1
+1st Year,First term,Bible 9,Required,5642283,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5642283,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Algebra 1,Requested,5642283,278068,2,MATALG1,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5642283,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,English 9,Requested,5642283,278058,2,ENG9,Core course,English,1
+1st Year,First term,Studio Art I,Requested,5642283,278032,1,ARTSTD1,Core course,Fine Arts,0.5
+1st Year,Second Term,Studio Art II,Requested,5642283,278033,1,ARTSTD2,Core course,Fine Arts,0.5
+1st Year,First term,Spanish I,Requested,5642283,278064,2,LANSP1,Core course,Foreign Language,1
+2nd Year,First term,Bible 10,Required,5361838,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361838,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361838,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361838,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Algebra II,Requested,5361838,278070,2,MATALG2,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5361838,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Digital Imaging & Editing,Requested,5361838,278113,1,TECHDIGIT,Core course,Technology,0.5
+2nd Year,Second Term,Graphic Design,Requested,5361838,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+4th Year,First term,Bible 12,Required,5361926,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment Biology 101,Requested,5361926,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,Dual Enrollment English 151,Requested,5361926,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Trig/Algebra III,Requested,5361926,278077,2,MATHALGIII,Core course,Mathematics,1
+4th Year,First term,Yearbook,Requested,5361926,278116,2,TECHYEAR,Elective,Technology,1
+4th Year,Any term,Faith & Film,Requested,5361926,278062,1,FAF,Elective,Bible,0.5
+4th Year,First term,Study Hall,Requested,5361926,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Independent Study 1,Requested,5361926,288571,1,INDSTUDY1,Elective,Career Study,0.5
+4th Year,Second Term,Independent Study 2,Requested,5361926,288572,1,INDSTUDY2,Elective,Career Study,0.5
+4th Year,Second Term,World Literature Honors,Requested,5361926,278054,1,ENG12WORLDH,Core course,English,0.5
+3rd year,First term,Bible 11,Required,5407561,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5407561,278051,2,ENG11,Core course,English,1
+3rd year,First term,Trig/PreCalculus,Requested,5407561,278082,2,MATTRIG,Core course,Mathematics,1
+3rd year,First term,Physical Science,Requested,5407561,278099,2,SCIPHY,Core course,Science,1
+3rd year,First term,World History,Requested,5407561,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Spanish II,Requested,5407561,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,First term,Financial Literacy,Requested,5407561,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,First term,Dual Enrollment World Civ. 101,Recommended,5407561,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,Trig/Pre-Calculus Hon,Recommended,5407561,278083,2,MATTrigH,Core course,Mathematics,1
+3rd year,First term,Modern America,Requested,5407561,282763,1,SOCMODUS,Elective,Social Studies,0.5
+2nd Year,First term,Bible 10,Required,5361859,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5361859,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Alg II Honors,Requested,5361859,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Chemistry Honors,Requested,5361859,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics Honors,Requested,5361859,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Spanish II,Requested,5361859,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Chorus - High ,Requested,5361859,278027,2,ARTChor,Core course,Fine Arts,1
+1st Year,First term,English 9 Honors,Requested,5361806,278059,2,ENG9H,Core course,English,1
+1st Year,First term,Bible 9,Required,5361806,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361806,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Biology Honors,Requested,5361806,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Algebra 1 Honors,Requested,5361806,278069,2,MATALG1H,Core course,Mathematics,1
+1st Year,First term,Spanish I,Requested,5361806,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Studio Art I,Requested,5361806,278032,1,ARTSTD1,Core course,Fine Arts,0.5
+1st Year,Second Term,Studio Art II,Requested,5361806,278033,1,ARTSTD2,Core course,Fine Arts,0.5
+1st Year,First term,Biology,Recommended,5361806,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,English 9,Requested,5434946,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5434946,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5434946,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Geometry,Requested,5434946,278075,2,MATGEOM,Core course,Mathematics,1
+1st Year,First term,Biology Honors,Requested,5434946,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Spanish I,Requested,5434946,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Drawing and Painting,Requested,5434946,278028,2,ARTDRAW,Core course,Fine Arts,1
+4th Year,First term,Bible 12,Required,5361937,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Physics Honors,Requested,5361937,282762,2,SCIPHYH,Core course,Science,1
+4th Year,First term,AP Calculus A/B,Requested,5361937,278072,2,MATAPCALCAB,Core course,Mathematics,1
+4th Year,First term,World Literature,Requested,5361937,278053,2,ENG12WORLD,Core course,English,1
+4th Year,First term,Digital Imaging & Editing,Requested,5361937,278113,1,TECHDIGIT,Core course,Technology,0.5
+4th Year,Second Term,Graphic Design,Requested,5361937,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+4th Year,First term,Drawing and Painting,Requested,5361937,278028,2,ARTDRAW,Core course,Fine Arts,1
+4th Year,First term,Dual Enrollment English 151,Recommended,5361937,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Study Hall,Requested,5361937,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Bible 12,Required,5593175,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment Biology 101,Requested,5593175,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,Trig/Pre-Calculus Hon,Requested,5593175,278083,2,MATTrigH,Core course,Mathematics,1
+4th Year,First term,Dual Enrollment English 151,Requested,5593175,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Spanish II,Requested,5593175,278065,2,LANSP2,Core course,Foreign Language,1
+4th Year,First term,Executive Internship I,Requested,5593175,288569,1,INTERN1,Elective,Career Study,0.5
+4th Year,First term,Journalism,Requested,5593175,300216,2,ENGJOUR,Elective,English,1
+4th Year,Second Term,Executive Internship II,Requested,5593175,288570,1,INTERN2,Elective,Career Study,0.5
+4th Year,Any term,Financial Literacy,Requested,5593175,278063,1,FINLIT,Core course,Social Studies,0.5
+4th Year,First term,Physics Honors,Recommended,5593175,282762,2,SCIPHYH,Core course,Science,1
+4th Year,Second Term,World Literature Honors,Requested,5593175,278054,1,ENG12WORLDH,Core course,English,0.5
+4th Year,First term,Bible 12,Required,5361915,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,World Literature,Requested,5361915,278053,2,ENG12WORLD,Core course,English,1
+4th Year,First term,Executive Internship I,Requested,5361915,288569,1,INTERN1,Elective,Career Study,0.5
+4th Year,Second Term,Executive Internship II,Requested,5361915,288570,1,INTERN2,Elective,Career Study,0.5
+4th Year,First term,Digital Imaging & Editing,Requested,5361915,278113,1,TECHDIGIT,Core course,Technology,0.5
+4th Year,First term,Chorus - High ,Requested,5361915,278027,2,ARTChor,Core course,Fine Arts,1
+4th Year,First term,Dual Enrollment English 151,Recommended,5361915,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,AP Calculus A/B,Recommended,5361915,278072,2,MATAPCALCAB,Core course,Mathematics,1
+4th Year,First term,AP Computer Science,Recommended,5361915,298024,2,APComp,Core course,"Technology, Mathematics",1
+3rd year,First term,Bible 11,Required,5361874,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5361874,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5361874,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,Algebra II,Requested,5361874,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Anatomy & Physiology,Requested,5361874,278093,1,SCIANATPH,Elective,Science,0.5
+3rd year,Second Term,Marine Biology,Requested,5361874,278098,1,SCIMABIO,Elective,Science,0.5
+3rd year,First term,Band - High ,Requested,5361874,278023,2,ARTBND,Core course,Fine Arts,1
+3rd year,First term,Spanish III,Requested,5361874,278066,2,LANSP3,Core course,Foreign Language,1
+1st Year,First term,English 9,Requested,5439293,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5439293,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,Geometry,Requested,5439293,278075,2,MATGEOM,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5439293,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,US History,Required,5439293,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Spanish I,Requested,5439293,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Health - High ,Requested,5439293,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,Second Term,Physical Education - High ,Requested,5439293,278088,1,PEHS,Core course,Physical Education,0.5
+3rd year,First term,Bible 11,Required,5361884,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361884,278051,2,ENG11,Core course,English,1
+3rd year,First term,World History,Requested,5361884,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Algebra II,Requested,5361884,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Earth and Space Science,Requested,5361884,278097,2,SCIERTH,Core course,Science,1
+3rd year,First term,Broadcast Journalism,Requested,5361884,282765,2,TECHBRJR,Core course,Technology,1
+3rd year,Any term,Financial Literacy,Requested,5361884,278063,1,FINLIT,Core course,Social Studies,0.5
+1st Year,First term,English 9 Honors,Requested,5361797,278059,2,ENG9H,Core course,English,1
+1st Year,First term,Bible 9,Required,5361797,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361797,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Geometry Honors,Requested,5361797,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,Biology Honors,Requested,5361797,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Spanish I,Requested,5361797,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Band - High ,Requested,5361797,278023,2,ARTBND,Core course,Fine Arts,1
+1st Year,Second Term,Health - High ,Requested,5361797,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,First term,Physical Education - High ,Requested,5361797,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,First term,English 9 Honors,Requested,5407520,278059,2,ENG9H,Core course,English,1
+1st Year,First term,Bible 9,Required,5407520,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,Geometry Honors,Requested,5407520,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,Biology Honors,Requested,5407520,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,US History,Required,5407520,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Spanish I,Requested,5407520,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Digital Imaging & Editing,Requested,5407520,278113,1,TECHDIGIT,Core course,Technology,0.5
+1st Year,Second Term,Graphic Design,Requested,5407520,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+3rd year,First term,Bible 11,Required,5361892,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361892,278051,2,ENG11,Core course,English,1
+3rd year,First term,Physical Science,Requested,5361892,278099,2,SCIPHY,Core course,Science,1
+3rd year,First term,World History,Requested,5361892,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Algebra II,Requested,5361892,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Chorus - High ,Requested,5361892,278027,2,ARTChor,Core course,Fine Arts,1
+3rd year,Any term,Financial Literacy,Requested,5361892,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,First term,Introduction to Business,Requested,5361892,278108,1,SOCIB,Elective,Social Studies,0.5
+1st Year,Second Term,Health - High ,Requested,5361820,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,First term,Physical Education - High ,Requested,5361820,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,First term,English 9,Requested,5361820,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5361820,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361820,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Algebra 1,Requested,5361820,278068,2,MATALG1,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5361820,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Spanish I,Requested,5361820,278064,2,LANSP1,Core course,Foreign Language,1
+3rd year,First term,Bible 11,Required,5361879,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,Algebra II,Requested,5361879,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Chemistry Honors,Requested,5361879,278096,2,SCICHEM10H,Core course,Science,1
+3rd year,First term,Band - High ,Requested,5361879,278023,2,ARTBND,Core course,Fine Arts,1
+3rd year,Any term,Financial Literacy,Requested,5361879,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,First term,Modern America,Requested,5361879,282763,1,SOCMODUS,Elective,Social Studies,0.5
+3rd year,First term,American Literature Honors,Requested,5361879,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,Second Term,Dual Enrollment English 101,Requested,5361879,278043,1,DEENG101,Core course,English,0.5
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5361879,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,Second Term,Dual Enrollment World Civ. 151,Requested,5361879,278047,1,DESOCWCIV2,Core course,Social Studies,0.5
+3rd year,First term,Bible 11,Required,5361897,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5361897,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Trig/Pre-Calculus Hon,Requested,5361897,278083,2,MATTrigH,Core course,Mathematics,1
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5361897,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,Second Term,Dual Enrollment World Civ. 151,Requested,5361897,278047,1,DESOCWCIV2,Core course,Social Studies,0.5
+3rd year,First term,Earth and Space Science,Requested,5361897,278097,2,SCIERTH,Core course,Science,1
+3rd year,First term,Trig/PreCalculus,Recommended,5361897,278082,2,MATTRIG,Core course,Mathematics,1
+3rd year,First term,World History,Recommended,5361897,278102,2,SOC11,Core course,Social Studies,1
+3rd year,Any term,Financial Literacy,Requested,5361897,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,Any term,Health - High ,Requested,5361897,278087,1,PEHealthHS,Core course,Physical Education,0.5
+3rd year,First term,Study Hall,Requested,5361897,280091,2,STUDY,Core course,Social Studies,0
+1st Year,First term,English 9 Honors,Requested,5361808,278059,2,ENG9H,Core course,English,1
+1st Year,First term,Bible 9,Required,5361808,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,Biology Honors,Requested,5361808,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Geometry Honors,Requested,5361808,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,US History,Required,5361808,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Spanish I,Requested,5361808,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Physical Education - High ,Requested,5361808,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,Second Term,Health - High ,Requested,5361808,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,First term,Biology,Recommended,5361808,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Biology Honors,Recommended,5361811,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Geometry Honors,Recommended,5361811,278076,2,MATGEOMH,Core course,Mathematics,1
+2nd Year,First term,Bible 10,Required,5361827,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361827,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361827,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361827,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Algebra II,Requested,5361827,278070,2,MATALG2,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5361827,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Drawing and Painting,Requested,5361827,278028,2,ARTDRAW,Core course,Fine Arts,1
+1st Year,First term,English 9 Honors,Requested,5361810,278059,2,ENG9H,Core course,English,1
+1st Year,First term,Bible 9,Required,5361810,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361810,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Algebra 1 Honors,Requested,5361810,278069,2,MATALG1H,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5361810,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Spanish I,Requested,5361810,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Health - High ,Requested,5361810,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,Second Term,Physical Education - High ,Requested,5361810,278088,1,PEHS,Core course,Physical Education,0.5
+2nd Year,First term,Bible 10,Required,5407518,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5407518,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5407518,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5407518,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Geometry,Requested,5407518,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5407518,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Advanced Robotics,Requested,5407518,278112,2,TECHADVROB,Core course,Technology,1
+3rd year,First term,Bible 11,Required,5361900,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361900,278051,2,ENG11,Core course,English,1
+3rd year,First term,Trig/PreCalculus,Requested,5361900,278082,2,MATTRIG,Core course,Mathematics,1
+3rd year,First term,Chemistry Honors,Requested,5361900,278096,2,SCICHEM10H,Core course,Science,1
+3rd year,First term,World History,Requested,5361900,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Drawing and Painting,Requested,5361900,278028,2,ARTDRAW,Core course,Fine Arts,1
+3rd year,Any term,Financial Literacy,Requested,5361900,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,Any term,Faith & Film,Requested,5361900,278062,1,FAF,Elective,Bible,0.5
+4th Year,First term,Bible 12,Required,5361929,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,World Literature,Requested,5361929,278053,2,ENG12WORLD,Core course,English,1
+4th Year,First term,Trig/Algebra III,Requested,5361929,278077,2,MATHALGIII,Core course,Mathematics,1
+4th Year,First term,Advanced Robotics,Requested,5361929,278112,2,TECHADVROB,Core course,Technology,1
+4th Year,Second Term,Marine Biology,Requested,5361929,278098,1,SCIMABIO,Elective,Science,0.5
+3rd year,First term,Bible 11,Required,5361880,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361880,278051,2,ENG11,Core course,English,1
+3rd year,First term,Trig/Pre-Calculus Hon,Requested,5361880,278083,2,MATTrigH,Core course,Mathematics,1
+3rd year,First term,Chemistry Honors,Requested,5361880,278096,2,SCICHEM10H,Core course,Science,1
+3rd year,First term,World History,Requested,5361880,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Drawing and Painting,Requested,5361880,278028,2,ARTDRAW,Core course,Fine Arts,1
+3rd year,First term,Trig/PreCalculus,Recommended,5361880,278082,2,MATTRIG,Core course,Mathematics,1
+3rd year,First term,Anatomy & Physiology,Requested,5361880,278093,1,SCIANATPH,Elective,Science,0.5
+3rd year,Any term,Financial Literacy,Requested,5361880,278063,1,FINLIT,Core course,Social Studies,0.5
+2nd Year,First term,Earth and Space Science,Requested,5361863,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361863,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,English 10,Requested,5361863,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Bible 10,Required,5361863,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,Advanced Robotics,Requested,5361863,278112,2,TECHADVROB,Core course,Technology,1
+2nd Year,First term,Geometry,Requested,5361863,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Studio Art I,Requested,5361863,278032,1,ARTSTD1,Core course,Fine Arts,0.5
+2nd Year,Second Term,Studio Art II,Requested,5361863,278033,1,ARTSTD2,Core course,Fine Arts,0.5
+1st Year,First term,English 9 Honors,Requested,5361802,278059,2,ENG9H,Core course,English,1
+1st Year,First term,Bible 9,Required,5361802,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,Geometry Honors,Requested,5361802,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,Biology Honors,Requested,5361802,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,US History,Required,5361802,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Spanish I,Requested,5361802,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Health - High ,Requested,5361802,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,Second Term,Physical Education - High ,Requested,5361802,278088,1,PEHS,Core course,Physical Education,0.5
+4th Year,First term,Bible 12,Required,5361923,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment English 151,Requested,5361923,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,AP Calculus A/B,Requested,5361923,278072,2,MATAPCALCAB,Core course,Mathematics,1
+4th Year,First term,Band - High ,Requested,5361923,278023,2,ARTBND,Core course,Fine Arts,1
+4th Year,First term,Digital Imaging & Editing,Requested,5361923,278113,1,TECHDIGIT,Core course,Technology,0.5
+4th Year,Second Term,Graphic Design,Requested,5361923,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+4th Year,First term,Dual Enrollment Biology 101,Requested,5361923,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,Statistics Honors,Recommended,5361923,278079,1,MATHSTATSH,Core course,Mathematics,0.5
+4th Year,First term,Study Hall,Requested,5361923,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Modern America,Requested,5361923,282763,1,SOCMODUS,Elective,Social Studies,0.5
+4th Year,Second Term,World Literature Honors,Requested,5361923,278054,1,ENG12WORLDH,Core course,English,0.5
+4th Year,Second Term,Contemporary Issues,Requested,5361923,300217,1,SOCCONT,Elective,Social Studies,0.5
+3rd year,First term,Bible 11,Required,5407593,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5407593,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Trig/Pre-Calculus Hon,Requested,5407593,278083,2,MATTrigH,Core course,Mathematics,1
+3rd year,First term,Chemistry Honors,Requested,5407593,278096,2,SCICHEM10H,Core course,Science,1
+3rd year,First term,US History,Requested,5407593,278106,2,SOC9,Core course,Social Studies,1
+3rd year,First term,Chorus - High ,Requested,5407593,278027,2,ARTChor,Core course,Fine Arts,1
+3rd year,Second Term,Financial Literacy,Requested,5407593,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,First term,Faith & Film,Requested,5407593,278062,1,FAF,Elective,Bible,0.5
+3rd year,First term,Bible 11,Required,5409913,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5409913,278051,2,ENG11,Core course,English,1
+3rd year,First term,World History,Requested,5409913,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Biology,Requested,5409913,278094,2,SCIBIO,Core course,Science,1
+3rd year,First term,Algebra II,Requested,5409913,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Digital Imaging & Editing,Requested,5409913,278113,1,TECHDIGIT,Core course,Technology,0.5
+3rd year,Second Term,Graphic Design,Requested,5409913,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+3rd year,Any term,Financial Literacy,Requested,5409913,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,Any term,Faith & Film,Requested,5409913,278062,1,FAF,Elective,Bible,0.5
+2nd Year,First term,Bible 10,Required,5361857,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5361857,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Alg II Honors,Requested,5361857,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Chemistry Honors,Requested,5361857,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics Honors,Requested,5361857,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Spanish II,Requested,5361857,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Drawing and Painting,Requested,5361857,278028,2,ARTDRAW,Core course,Fine Arts,1
+3rd year,First term,Algebra II,Recommended,5361904,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Alg II Honors,Requested,5361904,278071,2,MATALG2H,Core course,Mathematics,1
+3rd year,First term,American Literature,Requested,5361904,278051,2,ENG11,Core course,English,1
+3rd year,First term,Physical Science,Requested,5361904,278099,2,SCIPHY,Core course,Science,1
+3rd year,First term,World History,Requested,5361904,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Bible 11,Required,5361904,278035,2,BIB11,Core course,Bible,1
+3rd year,Any term,Physical Education - High ,Requested,5361904,278088,1,PEHS,Core course,Physical Education,0.5
+3rd year,Any term,Health - High ,Requested,5361904,278087,1,PEHealthHS,Core course,Physical Education,0.5
+3rd year,First term,Spanish II,Requested,5361904,278065,2,LANSP2,Core course,Foreign Language,1
+4th Year,First term,Bible 12,Required,5407564,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment English 151,Requested,5407564,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Trig/Pre-Calculus Hon,Requested,5407564,278083,2,MATTrigH,Core course,Mathematics,1
+4th Year,First term,US History,Requested,5407564,278106,2,SOC9,Core course,Social Studies,1
+4th Year,First term,Chorus - High ,Requested,5407564,278027,2,ARTChor,Core course,Fine Arts,1
+4th Year,First term,Advanced Robotics,Requested,5407564,278112,2,TECHADVROB,Core course,Technology,1
+4th Year,First term,Chemistry Honors,Requested,5407564,278096,2,SCICHEM10H,Core course,Science,1
+4th Year,First term,Dual Enrollment World Civ. 101,Recommended,5407564,278048,1,DEWCIV1,Core course,Social Studies,0.5
+4th Year,Second Term,World Literature Honors,Requested,5407564,278054,1,ENG12WORLDH,Core course,English,0.5
+2nd Year,First term,Bible 10,Required,5361836,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361836,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361836,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361836,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Geometry,Requested,5361836,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5361836,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Digital Imaging & Editing,Requested,5361836,278113,1,TECHDIGIT,Core course,Technology,0.5
+2nd Year,Second Term,Graphic Design,Requested,5361836,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+1st Year,First term,English 9 Honors,Requested,5510555,278059,2,ENG9H,Core course,English,1
+1st Year,First term,Bible 9,Required,5510555,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5510555,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Chorus - High ,Requested,5510555,278027,2,ARTChor,Core course,Fine Arts,1
+1st Year,First term,Geometry Honors,Requested,5510555,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,Biology Honors,Requested,5510555,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Spanish I,Requested,5510555,278064,2,LANSP1,Core course,Foreign Language,1
+2nd Year,First term,Bible 10,Required,5407543,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5407543,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5407543,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5407543,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Algebra II,Requested,5407543,278070,2,MATALG2,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5407543,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Drawing and Painting,Requested,5407543,278028,2,ARTDRAW,Core course,Fine Arts,1
+3rd year,First term,Bible 11,Required,5424569,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5424569,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Alg II Honors,Requested,5424569,278071,2,MATALG2H,Core course,Mathematics,1
+3rd year,First term,American Government & Politics,Requested,5424569,278100,2,SOC10GOV,Core course,Social Studies,1
+3rd year,First term,Biology,Requested,5424569,278094,2,SCIBIO,Core course,Science,1
+3rd year,First term,Spanish II,Requested,5424569,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,Any term,Health - High ,Requested,5424569,278087,1,PEHealthHS,Core course,Physical Education,0.5
+3rd year,First term,World History,Recommended,5424569,278102,2,SOC11,Core course,Social Studies,1
+3rd year,Any term,Financial Literacy,Requested,5424569,278063,1,FINLIT,Core course,Social Studies,0.5
+1st Year,First term,English 9 Honors,Requested,5424570,278059,2,ENG9H,Core course,English,1
+1st Year,First term,Bible 9,Required,5424570,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,Geometry Honors,Requested,5424570,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,Biology Honors,Requested,5424570,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,US History,Required,5424570,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Spanish I,Requested,5424570,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Digital Imaging & Editing,Requested,5424570,278113,1,TECHDIGIT,Core course,Technology,0.5
+1st Year,Second Term,Graphic Design,Requested,5424570,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+1st Year,First term,Bible 9,Required,5361809,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361809,278106,2,SOC9,Core course,Social Studies,1
+4th Year,First term,Bible 12,Required,5361789,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,AP Computer Science,Requested,5361789,298024,2,APComp,Core course,"Technology, Mathematics",1
+4th Year,First term,Dual Enrollment English 151,Requested,5361789,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Advanced Robotics,Requested,5361789,278112,2,TECHADVROB,Core course,Technology,1
+4th Year,First term,Physics Honors,Requested,5361789,282762,2,SCIPHYH,Core course,Science,1
+4th Year,First term,Digital Imaging & Editing,Requested,5361789,278113,1,TECHDIGIT,Core course,Technology,0.5
+4th Year,Second Term,Graphic Design,Requested,5361789,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+4th Year,Second Term,World Literature Honors,Requested,5361789,278054,1,ENG12WORLDH,Core course,English,0.5
+2nd Year,First term,Bible 10,Required,5407517,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,American Government & Politics Honors,Requested,5407517,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Chemistry Honors,Requested,5407517,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,English 10 Honors,Requested,5407517,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Algebra II,Requested,5407517,278070,2,MATALG2,Core course,Mathematics,1
+2nd Year,First term,Band - High ,Requested,5407517,278023,2,ARTBND,Core course,Fine Arts,1
+2nd Year,Any term,Health - High ,Requested,5407517,278087,1,PEHealthHS,Core course,Physical Education,0.5
+2nd Year,First term,Alg II Honors,Recommended,5407517,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,Any term,Physical Education - High ,Requested,5407517,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,First term,Biology,Recommended,5361800,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Geometry,Recommended,5361800,278075,2,MATGEOM,Core course,Mathematics,1
+3rd year,First term,Bible 11,Required,5361890,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361890,278051,2,ENG11,Core course,English,1
+3rd year,First term,World History,Requested,5361890,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Physical Science,Requested,5361890,278099,2,SCIPHY,Core course,Science,1
+3rd year,First term,Algebra II,Requested,5361890,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Studio Art I,Requested,5361890,278032,1,ARTSTD1,Core course,Fine Arts,0.5
+3rd year,Second Term,Studio Art II,Requested,5361890,278033,1,ARTSTD2,Core course,Fine Arts,0.5
+3rd year,Second Term,Recreational Sports,Requested,5361890,282758,1,PERS,Elective,Physical Education,0.5
+3rd year,First term,Personal Fitness,Requested,5361890,278089,1,PEPF,Elective,Physical Education,0.5
+1st Year,First term,Biology,Recommended,5361821,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Geometry,Recommended,5361821,278075,2,MATGEOM,Core course,Mathematics,1
+1st Year,First term,English 9 Honors,Requested,5361821,278059,2,ENG9H,Core course,English,1
+4th Year,First term,Bible 12,Required,5361912,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Chemistry Honors,Requested,5361912,278096,2,SCICHEM10H,Core course,Science,1
+4th Year,First term,World Literature,Requested,5361912,278053,2,ENG12WORLD,Core course,English,1
+4th Year,First term,Dual Enrollment World Civ. 101,Requested,5361912,278048,1,DEWCIV1,Core course,Social Studies,0.5
+4th Year,Second Term,Dual Enrollment World Civ. 151,Requested,5361912,278047,1,DESOCWCIV2,Core course,Social Studies,0.5
+4th Year,First term,Dual Enrollment Intro. to Psych. 101,Requested,5361912,278046,1,DESOCIP,Elective,Social Studies,0.5
+4th Year,First term,Study Hall,Requested,5361912,280091,2,STUDY,Core course,Social Studies,0
+4th Year,Second Term,Speech Communications,Requested,5361912,278061,1,ENGSPCH,Elective,English,0.5
+4th Year,First term,Dual Enrollment English 151,Recommended,5361912,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Trig/PreCalculus,Recommended,5361912,278082,2,MATTRIG,Core course,Mathematics,1
+4th Year,Second Term,Contemporary Issues,Requested,5361912,300217,1,SOCCONT,Elective,Social Studies,0.5
+2nd Year,First term,Bible 10,Required,5361858,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5361858,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Alg II Honors,Requested,5361858,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Chemistry Honors,Requested,5361858,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics Honors,Requested,5361858,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Band - High ,Requested,5361858,278023,2,ARTBND,Core course,Fine Arts,1
+2nd Year,First term,Spanish II,Requested,5361858,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Chorus - High ,Requested,5361858,278027,2,ARTChor,Core course,Fine Arts,1
+4th Year,First term,Bible 12,Required,5407498,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment English 151,Requested,5407498,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Trig/PreCalculus,Requested,5407498,278082,2,MATTRIG,Core course,Mathematics,1
+4th Year,Second Term,Marine Biology,Requested,5407498,278098,1,SCIMABIO,Elective,Science,0.5
+4th Year,First term,Dual Enrollment Biology 101,Requested,5407498,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,Executive Internship I,Requested,5407498,288569,1,INTERN1,Elective,Career Study,0.5
+4th Year,Second Term,Executive Internship II,Requested,5407498,288570,1,INTERN2,Elective,Career Study,0.5
+4th Year,First term,Yearbook,Requested,5407498,278116,2,TECHYEAR,Elective,Technology,1
+4th Year,First term,Study Hall,Requested,5407498,280091,2,STUDY,Core course,Social Studies,0
+4th Year,Second Term,Financial Literacy,Requested,5407498,278063,1,FINLIT,Core course,Social Studies,0.5
+4th Year,First term,Dual Enrollment World Civ. 101,Recommended,5407498,278048,1,DEWCIV1,Core course,Social Studies,0.5
+4th Year,Second Term,World Literature Honors,Requested,5407498,278054,1,ENG12WORLDH,Core course,English,0.5
+4th Year,First term,Alg II Honors,Recommended,5407498,278071,2,MATALG2H,Core course,Mathematics,1
+4th Year,First term,American Government & Politics Honors,Recommended,5407498,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Bible 10,Required,5361856,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361856,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361856,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361856,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Geometry,Requested,5361856,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5361856,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Digital Imaging & Editing,Requested,5361856,278113,1,TECHDIGIT,Core course,Technology,0.5
+2nd Year,Second Term,Graphic Design,Requested,5361856,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+3rd year,First term,Bible 11,Required,5361899,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361899,278051,2,ENG11,Core course,English,1
+3rd year,First term,Algebra II,Requested,5361899,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Physical Science,Requested,5361899,278099,2,SCIPHY,Core course,Science,1
+3rd year,First term,World History,Requested,5361899,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Digital Imaging & Editing,Requested,5361899,278113,1,TECHDIGIT,Core course,Technology,0.5
+3rd year,First term,Faith & Film,Requested,5361899,278062,1,FAF,Elective,Bible,0.5
+3rd year,Second Term,Graphic Design,Requested,5361899,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+3rd year,First term,Alg II Honors,Recommended,5361899,278071,2,MATALG2H,Core course,Mathematics,1
+3rd year,Any term,Financial Literacy,Requested,5361899,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,First term,Bible 11,Required,5361896,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,Chemistry Honors,Requested,5361896,278096,2,SCICHEM10H,Core course,Science,1
+3rd year,First term,World History,Requested,5361896,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Algebra II,Requested,5361896,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,American Literature,Requested,5361896,278051,2,ENG11,Core course,English,1
+3rd year,First term,Spanish II,Requested,5361896,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,First term,Digital Imaging & Editing,Requested,5361896,278113,1,TECHDIGIT,Core course,Technology,0.5
+3rd year,Second Term,Graphic Design,Requested,5361896,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+3rd year,First term,Physical Science,Recommended,5361896,278099,2,SCIPHY,Core course,Science,1
+2nd Year,First term,Bible 10,Required,5361834,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5361834,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,American Government & Politics,Requested,5361834,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Earth and Space Science,Requested,5361834,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,Spanish II,Requested,5361834,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Geometry,Requested,5361834,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Drawing and Painting,Requested,5361834,278028,2,ARTDRAW,Core course,Fine Arts,1
+2nd Year,First term,Chemistry Honors,Recommended,5361834,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics Honors,Recommended,5361834,278101,2,SOC10GOVH,Core course,Social Studies,1
+4th Year,First term,Dual Enrollment English 151,Recommended,5361907,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Trig/PreCalculus,Recommended,5361907,278082,2,MATTRIG,Core course,Mathematics,1
+4th Year,First term,Bible 12,Required,5361907,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Bible 12,Required,5361921,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,AP Computer Science,Requested,5361921,298024,2,APComp,Core course,"Technology, Mathematics",1
+4th Year,First term,Dual Enrollment English 151,Requested,5361921,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Advanced Robotics,Requested,5361921,278112,2,TECHADVROB,Core course,Technology,1
+4th Year,First term,Physics Honors,Requested,5361921,282762,2,SCIPHYH,Core course,Science,1
+4th Year,First term,Personal Fitness,Requested,5361921,278089,1,PEPF,Elective,Physical Education,0.5
+4th Year,Second Term,Recreational Sports,Requested,5361921,282758,1,PERS,Elective,Physical Education,0.5
+4th Year,First term,Study Hall,Requested,5361921,280091,2,STUDY,Core course,Social Studies,0
+3rd year,First term,Bible 11,Required,5361893,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361893,278051,2,ENG11,Core course,English,1
+3rd year,First term,Physical Science,Requested,5361893,278099,2,SCIPHY,Core course,Science,1
+3rd year,First term,World History,Requested,5361893,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Algebra II,Requested,5361893,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Spanish II,Requested,5361893,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,First term,Drawing and Painting,Requested,5361893,278028,2,ARTDRAW,Core course,Fine Arts,1
+1st Year,First term,English 9,Requested,5361801,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5361801,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361801,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Algebra 1,Requested,5361801,278068,2,MATALG1,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5361801,278094,2,SCIBIO,Core course,Science,1
+1st Year,Second Term,Health - High ,Requested,5361801,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,First term,Physical Education - High ,Requested,5361801,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,First term,Digital Imaging & Editing,Requested,5361801,278113,1,TECHDIGIT,Core course,Technology,0.5
+1st Year,Second Term,Graphic Design,Requested,5361801,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+2nd Year,First term,Bible 10,Required,5361828,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361828,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361828,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361828,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Geometry,Requested,5361828,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5361828,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,Second Term,Graphic Design,Requested,5361828,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+2nd Year,First term,Digital Imaging & Editing,Requested,5361828,278113,1,TECHDIGIT,Core course,Technology,0.5
+4th Year,First term,Bible 12,Required,5361908,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,World Literature,Requested,5361908,278053,2,ENG12WORLD,Core course,English,1
+4th Year,First term,Trig/PreCalculus,Requested,5361908,278082,2,MATTRIG,Core course,Mathematics,1
+4th Year,First term,Digital Imaging & Editing,Requested,5361908,278113,1,TECHDIGIT,Core course,Technology,0.5
+4th Year,Second Term,Graphic Design,Requested,5361908,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+4th Year,First term,Study Hall,Requested,5361908,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Personal Fitness,Requested,5361908,278089,1,PEPF,Elective,Physical Education,0.5
+4th Year,Second Term,Recreational Sports,Requested,5361908,282758,1,PERS,Elective,Physical Education,0.5
+4th Year,Second Term,Executive Internship II,Requested,5361908,288570,1,INTERN2,Elective,Career Study,0.5
+4th Year,First term,Anatomy & Physiology,Recommended,5361908,278093,1,SCIANATPH,Elective,Science,0.5
+1st Year,First term,English 9,Requested,5361807,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5361807,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361807,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Algebra 1 Honors,Requested,5361807,278069,2,MATALG1H,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5361807,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Spanish I,Requested,5361807,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,Second Term,Health - High ,Requested,5361807,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,First term,Physical Education - High ,Requested,5361807,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,First term,Biology,Requested,5361814,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Algebra 1,Requested,5361814,278068,2,MATALG1,Core course,Mathematics,1
+1st Year,First term,English 9,Requested,5361814,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5361814,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361814,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Spanish I,Requested,5361814,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,Second Term,Health - High ,Requested,5361814,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,First term,Physical Education - High ,Requested,5361814,278088,1,PEHS,Core course,Physical Education,0.5
+2nd Year,First term,Bible 10,Required,5361846,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5361846,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Alg II Honors,Requested,5361846,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Chemistry Honors,Requested,5361846,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics Honors,Requested,5361846,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Chorus - High ,Requested,5361846,278027,2,ARTChor,Core course,Fine Arts,1
+2nd Year,First term,Spanish II,Requested,5361846,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,First term,Bible 11,Required,5361895,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361895,278051,2,ENG11,Core course,English,1
+3rd year,First term,Physical Science,Requested,5361895,278099,2,SCIPHY,Core course,Science,1
+3rd year,First term,World History,Requested,5361895,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Algebra II,Requested,5361895,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Spanish II,Requested,5361895,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,Any term,Health - High ,Requested,5361895,278087,1,PEHealthHS,Core course,Physical Education,0.5
+3rd year,Any term,Physical Education - High ,Requested,5361895,278088,1,PEHS,Core course,Physical Education,0.5
+4th Year,First term,Bible 12,Required,5361909,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Trig/Algebra III,Requested,5361909,278077,2,MATHALGIII,Core course,Mathematics,1
+4th Year,First term,Digital Imaging & Editing,Requested,5361909,278113,1,TECHDIGIT,Core course,Technology,0.5
+4th Year,First term,Study Hall,Requested,5361909,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Spanish III,Requested,5361909,278066,2,LANSP3,Core course,Foreign Language,1
+4th Year,First term,Dual Enrollment English 151,Requested,5361909,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Anatomy & Physiology,Requested,5361909,278093,1,SCIANATPH,Elective,Science,0.5
+4th Year,First term,Physical Science,Recommended,5361909,278099,2,SCIPHY,Core course,Science,1
+2nd Year,First term,Bible 10,Required,5407554,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5407554,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5407554,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5407554,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Geometry,Requested,5407554,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Spanish I,Requested,5407554,278064,2,LANSP1,Core course,Foreign Language,1
+2nd Year,First term,Chorus - High ,Requested,5407554,278027,2,ARTChor,Core course,Fine Arts,1
+2nd Year,First term,Band - High ,Requested,5407554,278023,2,ARTBND,Core course,Fine Arts,1
+2nd Year,First term,Alg II Honors,Recommended,5361853,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,English 10 Honors,Requested,5361853,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361853,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361853,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Bible 10,Required,5361853,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,Studio Art I,Requested,5361853,278032,1,ARTSTD1,Core course,Fine Arts,0.5
+2nd Year,Second Term,Studio Art II,Requested,5361853,278033,1,ARTSTD2,Core course,Fine Arts,0.5
+2nd Year,First term,Spanish II,Requested,5361853,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Algebra II,Requested,5361853,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Bible 11,Required,5303312,278035,2,BIB11,Core course,Bible,1
+1st Year,First term,English 9 Honors,Requested,5361804,278059,2,ENG9H,Core course,English,1
+1st Year,First term,Bible 9,Required,5361804,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,Geometry Honors,Requested,5361804,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,Biology Honors,Requested,5361804,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,US History,Required,5361804,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Spanish I,Requested,5361804,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Health - High ,Requested,5361804,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,Second Term,Physical Education - High ,Requested,5361804,278088,1,PEHS,Core course,Physical Education,0.5
+3rd year,First term,Bible 11,Required,5361881,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361881,278051,2,ENG11,Core course,English,1
+3rd year,First term,Trig/PreCalculus,Requested,5361881,278082,2,MATTRIG,Core course,Mathematics,1
+3rd year,First term,World History,Requested,5361881,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Earth and Space Science,Requested,5361881,278097,2,SCIERTH,Core course,Science,1
+3rd year,First term,Band - High ,Requested,5361881,278023,2,ARTBND,Core course,Fine Arts,1
+3rd year,Any term,Financial Literacy,Requested,5361881,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,First term,Study Hall,Requested,5361881,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Bible 12,Required,5361920,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,World Literature,Requested,5361920,278053,2,ENG12WORLD,Core course,English,1
+4th Year,First term,Trig/PreCalculus,Requested,5361920,278082,2,MATTRIG,Core course,Mathematics,1
+4th Year,First term,Personal Fitness,Requested,5361920,278089,1,PEPF,Elective,Physical Education,0.5
+4th Year,Second Term,Recreational Sports,Requested,5361920,282758,1,PERS,Elective,Physical Education,0.5
+4th Year,First term,Study Hall,Requested,5361920,280091,2,STUDY,Core course,Social Studies,0
+4th Year,Any term,Financial Literacy,Requested,5361920,278063,1,FINLIT,Core course,Social Studies,0.5
+4th Year,Any term,Faith & Film,Requested,5361920,278062,1,FAF,Elective,Bible,0.5
+3rd year,First term,Bible 11,Required,5361883,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5361883,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,American Literature Honors,Requested,5361883,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Trig/Pre-Calculus Hon,Requested,5361883,278083,2,MATTrigH,Core course,Mathematics,1
+3rd year,First term,Physics Honors,Requested,5361883,282762,2,SCIPHYH,Core course,Science,1
+3rd year,First term,Studio Art I,Requested,5361883,278032,1,ARTSTD1,Core course,Fine Arts,0.5
+3rd year,Second Term,Studio Art II,Requested,5361883,278033,1,ARTSTD2,Core course,Fine Arts,0.5
+3rd year,Any term,Financial Literacy,Requested,5361883,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,First term,Dual Enrollment Intro. to Psych. 101,Requested,5361883,278046,1,DESOCIP,Elective,Social Studies,0.5
+3rd year,First term,Bible 11,Required,5361886,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361886,278051,2,ENG11,Core course,English,1
+3rd year,First term,Trig/PreCalculus,Requested,5361886,278082,2,MATTRIG,Core course,Mathematics,1
+3rd year,First term,World History,Requested,5361886,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Anatomy & Physiology,Requested,5361886,278093,1,SCIANATPH,Elective,Science,0.5
+3rd year,Second Term,Marine Biology,Requested,5361886,278098,1,SCIMABIO,Elective,Science,0.5
+3rd year,First term,Spanish III,Requested,5361886,278066,2,LANSP3,Core course,Foreign Language,1
+3rd year,First term,Studio Art I,Requested,5361886,278032,1,ARTSTD1,Core course,Fine Arts,0.5
+3rd year,Second Term,Studio Art II,Requested,5361886,278033,1,ARTSTD2,Core course,Fine Arts,0.5
+3rd year,First term,Dual Enrollment Biology 101,Recommended,5361886,278041,1,DEBIO101,Core course,Science,0.5
+2nd Year,First term,Alg II Honors,Recommended,5361851,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Algebra II,Recommended,5361851,278070,2,MATALG2,Core course,Mathematics,1
+2nd Year,First term,American Government & Politics Honors,Recommended,5361851,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Chemistry Honors,Recommended,5361851,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,English 10 Honors,Recommended,5361851,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Bible 10,Required,5361851,278034,2,BIB10,Core course,Bible,1
+3rd year,First term,Bible 11,Required,5361891,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361891,278051,2,ENG11,Core course,English,1
+3rd year,First term,Trig/Algebra III,Requested,5361891,278077,2,MATHALGIII,Core course,Mathematics,1
+3rd year,First term,Physical Science,Requested,5361891,278099,2,SCIPHY,Core course,Science,1
+3rd year,First term,World History,Requested,5361891,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Advanced Robotics,Requested,5361891,278112,2,TECHADVROB,Core course,Technology,1
+3rd year,First term,Digital Imaging & Editing,Requested,5361891,278113,1,TECHDIGIT,Core course,Technology,0.5
+3rd year,Any term,Financial Literacy,Requested,5361891,278063,1,FINLIT,Core course,Social Studies,0.5
+1st Year,First term,English 9 Honors,Requested,5361825,278059,2,ENG9H,Core course,English,1
+1st Year,First term,Bible 9,Required,5361825,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361825,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Geometry Honors,Requested,5361825,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,Biology Honors,Requested,5361825,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Spanish I,Requested,5361825,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Physical Education - High ,Requested,5361825,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,Second Term,Health - High ,Requested,5361825,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,First term,English 9,Requested,5361796,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5361796,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361796,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Algebra 1,Requested,5361796,278068,2,MATALG1,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5361796,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Spanish I,Requested,5361796,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Physical Education - High ,Requested,5361796,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,Second Term,Health - High ,Requested,5361796,278087,1,PEHealthHS,Core course,Physical Education,0.5
+4th Year,First term,Bible 12,Required,5361924,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment English 151,Requested,5361924,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Statistics Honors,Requested,5361924,278079,1,MATHSTATSH,Core course,Mathematics,0.5
+4th Year,First term,Anatomy & Physiology,Requested,5361924,278093,1,SCIANATPH,Elective,Science,0.5
+4th Year,Any term,Financial Literacy,Requested,5361924,278063,1,FINLIT,Core course,Social Studies,0.5
+4th Year,First term,Study Hall,Requested,5361924,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Dual Enrollment Intro. to Psych. 101,Requested,5361924,278046,1,DESOCIP,Elective,Social Studies,0.5
+4th Year,Second Term,Dual Enrollment Intro. to Teaching 201,Requested,5361924,278045,1,DEITCHG,Elective,Social Studies,0.5
+4th Year,First term,Executive Internship I,Requested,5361924,288569,1,INTERN1,Elective,Career Study,0.5
+4th Year,Second Term,Executive Internship II,Requested,5361924,288570,1,INTERN2,Elective,Career Study,0.5
+4th Year,First term,Bible 12,Required,5361913,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment English 151,Requested,5361913,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Statistics Honors,Requested,5361913,278079,1,MATHSTATSH,Core course,Mathematics,0.5
+4th Year,First term,Chemistry Honors,Requested,5361913,278096,2,SCICHEM10H,Core course,Science,1
+4th Year,First term,Study Hall,Requested,5361913,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Spanish III,Requested,5361913,278066,2,LANSP3,Core course,Foreign Language,1
+4th Year,First term,Personal Fitness,Requested,5361913,278089,1,PEPF,Elective,Physical Education,0.5
+4th Year,First term,Dual Enrollment Biology 101,Recommended,5361913,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,Modern America,Requested,5361913,282763,1,SOCMODUS,Elective,Social Studies,0.5
+2nd Year,First term,Bible 10,Required,5361843,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5361843,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Chemistry Honors,Requested,5361843,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361843,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Algebra II,Requested,5361843,278070,2,MATALG2,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5361843,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,Second Term,Health - High ,Requested,5361843,278087,1,PEHealthHS,Core course,Physical Education,0.5
+2nd Year,First term,American Government & Politics Honors,Recommended,5361843,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,Any term,Physical Education - High ,Requested,5361843,278088,1,PEHS,Core course,Physical Education,0.5
+2nd Year,First term,Bible 10,Required,5361865,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361865,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361865,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361865,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Geometry,Requested,5361865,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Band - High ,Requested,5361865,278023,2,ARTBND,Core course,Fine Arts,1
+2nd Year,First term,Spanish I,Requested,5361865,278064,2,LANSP1,Core course,Foreign Language,1
+2nd Year,First term,Bible 10,Required,5361870,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,Alg II Honors,Requested,5361870,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,English 10 Honors,Requested,5361870,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,American Government & Politics Honors,Requested,5361870,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Chemistry Honors,Requested,5361870,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,Band - High ,Requested,5361870,278023,2,ARTBND,Core course,Fine Arts,1
+2nd Year,First term,Spanish II,Requested,5361870,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Bible 10,Required,5361869,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,Alg II Honors,Requested,5361869,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Chemistry Honors,Requested,5361869,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics Honors,Requested,5361869,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,English 10,Requested,5361869,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Spanish II,Requested,5361869,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Band - High ,Requested,5361869,278023,2,ARTBND,Core course,Fine Arts,1
+2nd Year,First term,English 10 Honors,Recommended,5361869,278050,2,ENG10H,Core course,English,1
+4th Year,First term,Bible 12,Required,5361936,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,AP Computer Science,Requested,5361936,298024,2,APComp,Core course,"Technology, Mathematics",1
+4th Year,First term,World Literature,Requested,5361936,278053,2,ENG12WORLD,Core course,English,1
+4th Year,First term,Yearbook,Requested,5361936,278116,2,TECHYEAR,Elective,Technology,1
+4th Year,First term,Study Hall,Requested,5361936,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Executive Internship I,Requested,5361936,288569,1,INTERN1,Elective,Career Study,0.5
+4th Year,Second Term,Executive Internship II,Requested,5361936,288570,1,INTERN2,Elective,Career Study,0.5
+4th Year,First term,Drawing and Painting,Requested,5361936,278028,2,ARTDRAW,Core course,Fine Arts,1
+4th Year,First term,Chemistry Honors,Recommended,5361936,278096,2,SCICHEM10H,Core course,Science,1
+1st Year,First term,Biology Honors,Recommended,5361812,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Geometry Honors,Recommended,5361812,278076,2,MATGEOMH,Core course,Mathematics,1
+3rd year,First term,Bible 11,Required,5407480,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5407480,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,American Literature Honors,Requested,5407480,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Biology Honors,Requested,5407480,278095,2,SCIBIOH,Core course,Science,1
+3rd year,First term,Algebra II,Requested,5407480,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Study Hall,Requested,5407480,280091,2,STUDY,Core course,Social Studies,0
+3rd year,First term,Digital Imaging & Editing,Requested,5407480,278113,1,TECHDIGIT,Core course,Technology,0.5
+3rd year,Second Term,Graphic Design,Requested,5407480,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+3rd year,First term,Chemistry Honors,Recommended,5407480,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,Bible 10,Required,5361862,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5361862,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361862,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361862,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Algebra II,Requested,5361862,278070,2,MATALG2,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5361862,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Drawing and Painting,Requested,5361862,278028,2,ARTDRAW,Core course,Fine Arts,1
+1st Year,First term,English 9,Requested,5407584,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5407584,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5407584,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Algebra 1,Requested,5407584,278068,2,MATALG1,Core course,Mathematics,1
+1st Year,First term,Biology Honors,Requested,5407584,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Spanish I,Requested,5407584,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Health - High ,Requested,5407584,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,Second Term,Physical Education - High ,Requested,5407584,278088,1,PEHS,Core course,Physical Education,0.5
+4th Year,First term,Bible 12,Required,5361906,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment English 151,Requested,5361906,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Dual Enrollment World Civ. 101,Requested,5361906,278048,1,DEWCIV1,Core course,Social Studies,0.5
+4th Year,First term,Anatomy & Physiology,Requested,5361906,278093,1,SCIANATPH,Elective,Science,0.5
+4th Year,First term,Dual Enrollment Intro. to Psych. 101,Requested,5361906,278046,1,DESOCIP,Elective,Social Studies,0.5
+4th Year,First term,Chorus - High ,Requested,5361906,278027,2,ARTChor,Core course,Fine Arts,1
+4th Year,Second Term,Contemporary Issues,Requested,5361906,300217,1,SOCCONT,Elective,Social Studies,0.5
+4th Year,First term,Anatomy & Physiology,Recommended,5361918,278093,1,SCIANATPH,Elective,Science,0.5
+4th Year,First term,Dual Enrollment English 151,Recommended,5361918,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Trig/Algebra III,Recommended,5361918,278077,2,MATHALGIII,Core course,Mathematics,1
+4th Year,First term,Bible 12,Required,5361918,278036,2,BIB12,Core course,Bible,1
+1st Year,First term,English 9,Requested,5361798,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5361798,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361798,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Geometry Honors,Requested,5361798,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5361798,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Health - High ,Requested,5361798,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,Second Term,Physical Education - High ,Requested,5361798,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,First term,Spanish I,Requested,5361798,278064,2,LANSP1,Core course,Foreign Language,1
+4th Year,First term,Bible 12,Required,5361910,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,World Literature,Requested,5361910,278053,2,ENG12WORLD,Core course,English,1
+4th Year,First term,Trig/Pre-Calculus Hon,Requested,5361910,278083,2,MATTrigH,Core course,Mathematics,1
+4th Year,First term,Dual Enrollment Biology 101,Requested,5361910,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,Study Hall,Requested,5361910,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Executive Internship I,Requested,5361910,288569,1,INTERN1,Elective,Career Study,0.5
+4th Year,First term,Dual Enrollment English 151,Recommended,5361910,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Chemistry Honors,Recommended,5361910,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,Bible 10,Required,5361835,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361835,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361835,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361835,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Geometry,Requested,5361835,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5361835,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Digital Imaging & Editing,Requested,5361835,278113,1,TECHDIGIT,Core course,Technology,0.5
+2nd Year,Second Term,Graphic Design,Requested,5361835,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+1st Year,First term,English 9,Requested,5361819,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5361819,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361819,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Geometry Honors,Requested,5361819,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5361819,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Physical Education - High ,Requested,5361819,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,Second Term,Health - High ,Requested,5361819,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,First term,Spanish I,Requested,5361819,278064,2,LANSP1,Core course,Foreign Language,1
+2nd Year,First term,Bible 10,Required,5361847,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361847,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Alg II Honors,Requested,5361847,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Earth and Space Science,Requested,5361847,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361847,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Spanish II,Requested,5361847,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,Any term,Health - High ,Requested,5361847,278087,1,PEHealthHS,Core course,Physical Education,0.5
+2nd Year,First term,Algebra II,Recommended,5361847,278070,2,MATALG2,Core course,Mathematics,1
+2nd Year,Any term,Physical Education - High ,Requested,5361847,278088,1,PEHS,Core course,Physical Education,0.5
+2nd Year,First term,Bible 10,Required,5361832,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5361832,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Alg II Honors,Requested,5361832,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Chemistry Honors,Requested,5361832,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics Honors,Requested,5361832,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Spanish II,Requested,5361832,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Band - High ,Requested,5361832,278023,2,ARTBND,Core course,Fine Arts,1
+2nd Year,First term,Chorus - High ,Requested,5361832,278027,2,ARTChor,Core course,Fine Arts,1
+2nd Year,First term,Bible 10,Required,5361830,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361830,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361830,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361830,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Alg II Honors,Requested,5361830,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5361830,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Broadcast Journalism,Requested,5361830,282765,2,TECHBRJR,Core course,Technology,1
+2nd Year,First term,Bible 10,Required,5361831,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361831,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361831,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361831,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Geometry,Requested,5361831,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5361831,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Digital Imaging & Editing,Requested,5361831,278113,1,TECHDIGIT,Core course,Technology,0.5
+2nd Year,Second Term,Graphic Design,Requested,5361831,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+2nd Year,First term,Bible 10,Required,5361864,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361864,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361864,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361864,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Geometry,Requested,5361864,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Band - High ,Requested,5361864,278023,2,ARTBND,Core course,Fine Arts,1
+2nd Year,First term,Chorus - High ,Requested,5361864,278027,2,ARTChor,Core course,Fine Arts,1
+2nd Year,First term,Spanish I,Requested,5361864,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,English 9,Requested,5361803,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5361803,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361803,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Algebra 1,Requested,5361803,278068,2,MATALG1,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5361803,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Band - High ,Requested,5361803,278023,2,ARTBND,Core course,Fine Arts,1
+1st Year,First term,Digital Imaging & Editing,Requested,5361803,278113,1,TECHDIGIT,Core course,Technology,0.5
+1st Year,Second Term,Graphic Design,Requested,5361803,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+4th Year,First term,Bible 12,Required,5361914,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment English 151,Requested,5361914,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Trig/PreCalculus,Requested,5361914,278082,2,MATTRIG,Core course,Mathematics,1
+4th Year,First term,Digital Imaging & Editing,Requested,5361914,278113,1,TECHDIGIT,Core course,Technology,0.5
+4th Year,Second Term,Graphic Design,Requested,5361914,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+4th Year,First term,Alg II Honors,Recommended,5361914,278071,2,MATALG2H,Core course,Mathematics,1
+4th Year,First term,Study Hall,Requested,5361914,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Dual Enrollment Biology 101,Requested,5361914,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,Bible 12,Required,5407527,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Trig/Algebra III,Requested,5407527,278077,2,MATHALGIII,Core course,Mathematics,1
+4th Year,First term,Dual Enrollment English 151,Requested,5407527,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,US History,Requested,5407527,278106,2,SOC9,Core course,Social Studies,1
+4th Year,First term,Dual Enrollment Intro. to Psych. 101,Requested,5407527,278046,1,DESOCIP,Elective,Social Studies,0.5
+4th Year,Second Term,Dual Enrollment Intro. to Teaching 201,Requested,5407527,278045,1,DEITCHG,Elective,Social Studies,0.5
+4th Year,First term,Executive Internship I,Requested,5407527,288569,1,INTERN1,Elective,Career Study,0.5
+4th Year,Second Term,Executive Internship II,Requested,5407527,288570,1,INTERN2,Elective,Career Study,0.5
+4th Year,First term,Drawing and Painting,Requested,5407527,278028,2,ARTDRAW,Core course,Fine Arts,1
+4th Year,First term,Physical Science,Recommended,5407527,278099,2,SCIPHY,Core course,Science,1
+3rd year,First term,Bible 11,Required,5361872,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5361872,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Chemistry Honors,Requested,5361872,278096,2,SCICHEM10H,Core course,Science,1
+3rd year,First term,World History,Requested,5361872,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Algebra II,Requested,5361872,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Spanish II,Requested,5361872,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,First term,Band - High ,Requested,5361872,278023,2,ARTBND,Core course,Fine Arts,1
+3rd year,First term,Anatomy & Physiology,Recommended,5361872,278093,1,SCIANATPH,Elective,Science,0.5
+4th Year,First term,Alg II Honors,Recommended,5361932,278071,2,MATALG2H,Core course,Mathematics,1
+4th Year,First term,Dual Enrollment Biology 101,Requested,5361932,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,Dual Enrollment English 151,Requested,5361932,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Bible 12,Required,5361932,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Study Hall,Requested,5361932,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Trig/PreCalculus,Requested,5361932,278082,2,MATTRIG,Core course,Mathematics,1
+4th Year,First term,Personal Fitness,Requested,5361932,278089,1,PEPF,Elective,Physical Education,0.5
+4th Year,Second Term,Recreational Sports,Requested,5361932,282758,1,PERS,Elective,Physical Education,0.5
+4th Year,First term,Digital Imaging & Editing,Requested,5361932,278113,1,TECHDIGIT,Core course,Technology,0.5
+4th Year,Second Term,Graphic Design,Requested,5361932,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+4th Year,Any term,Faith & Film,Requested,5361932,278062,1,FAF,Elective,Bible,0.5
+1st Year,First term,English 9,Requested,5361818,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5361818,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361818,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Geometry Honors,Requested,5361818,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,Biology Honors,Requested,5361818,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Spanish I,Requested,5361818,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,First term,Health - High ,Requested,5361818,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,Second Term,Physical Education - High ,Requested,5361818,278088,1,PEHS,Core course,Physical Education,0.5
+3rd year,First term,American Government & Politics,Recommended,5432621,278100,2,SOC10GOV,Core course,Social Studies,1
+3rd year,First term,American Literature,Recommended,5432621,278051,2,ENG11,Core course,English,1
+3rd year,First term,Biology Honors,Recommended,5432621,278095,2,SCIBIOH,Core course,Science,1
+3rd year,First term,Trig/Algebra III,Recommended,5432621,278077,2,MATHALGIII,Core course,Mathematics,1
+3rd year,First term,World History,Recommended,5432621,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Bible 11,Required,5432621,278035,2,BIB11,Core course,Bible,1
+4th Year,First term,Bible 12,Required,5361928,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment English 151,Requested,5361928,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Statistics Honors,Requested,5361928,278079,1,MATHSTATSH,Core course,Mathematics,0.5
+4th Year,First term,Dual Enrollment Biology 101,Requested,5361928,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,Digital Imaging & Editing,Requested,5361928,278113,1,TECHDIGIT,Core course,Technology,0.5
+4th Year,Second Term,Graphic Design,Requested,5361928,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+4th Year,First term,Executive Internship I,Requested,5361928,288569,1,INTERN1,Elective,Career Study,0.5
+4th Year,First term,Study Hall,Requested,5361928,280091,2,STUDY,Core course,Social Studies,0
+4th Year,Second Term,Executive Internship II,Requested,5361928,288570,1,INTERN2,Elective,Career Study,0.5
+4th Year,First term,AP Calculus A/B,Recommended,5361928,278072,2,MATAPCALCAB,Core course,Mathematics,1
+4th Year,First term,Introduction to Business,Requested,5361928,278108,1,SOCIB,Elective,Social Studies,0.5
+4th Year,Any term,Faith & Film,Requested,5361928,278062,1,FAF,Elective,Bible,0.5
+4th Year,Second Term,Dual Enrollment Chemistry 105,Requested,5361928,278042,1,DECHEM105,Core course,Science,0.5
+2nd Year,First term,Bible 10,Required,5361833,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5361833,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,American Government & Politics,Requested,5361833,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Geometry,Requested,5361833,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Spanish I,Requested,5361833,278064,2,LANSP1,Core course,Foreign Language,1
+2nd Year,First term,Chemistry Honors,Requested,5361833,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,Earth and Space Science,Recommended,5361833,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,Chorus - High ,Requested,5361833,278027,2,ARTChor,Core course,Fine Arts,1
+1st Year,First term,English 9,Requested,5361817,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5361817,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361817,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Algebra 1,Requested,5361817,278068,2,MATALG1,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5361817,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Spanish I,Requested,5361817,278064,2,LANSP1,Core course,Foreign Language,1
+1st Year,Second Term,Health - High ,Requested,5361817,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,First term,Physical Education - High ,Requested,5361817,278088,1,PEHS,Core course,Physical Education,0.5
+3rd year,First term,Bible 11,Required,5407499,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5407499,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5407499,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,Biology Honors,Requested,5407499,278095,2,SCIBIOH,Core course,Science,1
+3rd year,First term,Algebra II,Requested,5407499,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Spanish II,Requested,5407499,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,First term,Drawing and Painting,Requested,5407499,278028,2,ARTDRAW,Core course,Fine Arts,1
+3rd year,First term,Earth and Space Science,Recommended,5407499,278097,2,SCIERTH,Core course,Science,1
+3rd year,First term,Bible 11,Required,5407500,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5407500,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5407500,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,Alg II Honors,Requested,5407500,278071,2,MATALG2H,Core course,Mathematics,1
+3rd year,First term,Chemistry Honors,Requested,5407500,278096,2,SCICHEM10H,Core course,Science,1
+3rd year,First term,Spanish II,Requested,5407500,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,First term,Drawing and Painting,Requested,5407500,278028,2,ARTDRAW,Core course,Fine Arts,1
+2nd Year,First term,Bible 10,Required,5361840,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361840,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361840,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361840,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Geometry,Requested,5361840,278075,2,MATGEOM,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5361840,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Advanced Robotics,Requested,5361840,278112,2,TECHADVROB,Core course,Technology,1
+3rd year,First term,American Literature Honors,Recommended,5361876,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Dual Enrollment World Civ. 101,Recommended,5361876,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,Trig/Pre-Calculus Hon,Recommended,5361876,278083,2,MATTrigH,Core course,Mathematics,1
+3rd year,First term,Bible 11,Required,5361902,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361902,278051,2,ENG11,Core course,English,1
+3rd year,First term,Chemistry Honors,Requested,5361902,278096,2,SCICHEM10H,Core course,Science,1
+3rd year,First term,World History,Requested,5361902,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Alg II Honors,Requested,5361902,278071,2,MATALG2H,Core course,Mathematics,1
+3rd year,First term,Spanish III,Requested,5361902,278066,2,LANSP3,Core course,Foreign Language,1
+3rd year,First term,Financial Literacy,Requested,5361902,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,First term,American Literature Honors,Recommended,5361902,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,Any term,Faith & Film,Requested,5361902,278062,1,FAF,Elective,Bible,0.5
+3rd year,First term,Bible 11,Required,5361885,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5361885,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Geometry Honors,Requested,5361885,278076,2,MATGEOMH,Core course,Mathematics,1
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5361885,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,Dual Enrollment Biology 101,Requested,5361885,278041,1,DEBIO101,Core course,Science,0.5
+3rd year,Second Term,Marine Biology,Requested,5361885,278098,1,SCIMABIO,Elective,Science,0.5
+3rd year,First term,Spanish II,Requested,5361885,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,First term,Trig/PreCalculus,Recommended,5361885,278082,2,MATTRIG,Core course,Mathematics,1
+3rd year,First term,Trig/Pre-Calculus Hon,Recommended,5361885,278083,2,MATTrigH,Core course,Mathematics,1
+3rd year,First term,Digital Imaging & Editing,Requested,5361885,278113,1,TECHDIGIT,Core course,Technology,0.5
+3rd year,Second Term,Graphic Design,Requested,5361885,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+4th Year,First term,Bible 12,Required,5361930,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,AP Calculus A/B,Requested,5361930,278072,2,MATAPCALCAB,Core course,Mathematics,1
+4th Year,First term,Digital Imaging & Editing,Requested,5361930,278113,1,TECHDIGIT,Core course,Technology,0.5
+4th Year,Second Term,Graphic Design,Requested,5361930,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+4th Year,First term,Band - High ,Requested,5361930,278023,2,ARTBND,Core course,Fine Arts,1
+4th Year,First term,Personal Fitness,Requested,5361930,278089,1,PEPF,Elective,Physical Education,0.5
+4th Year,Second Term,Recreational Sports,Requested,5361930,282758,1,PERS,Elective,Physical Education,0.5
+4th Year,First term,Dual Enrollment English 151,Recommended,5361930,278044,1,DEENG151,Core course,English,0.5
+4th Year,Second Term,Contemporary Issues,Requested,5361930,300217,1,SOCCONT,Elective,Social Studies,0.5
+4th Year,First term,Bible 12,Required,5407506,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,World Literature,Requested,5407506,278053,2,ENG12WORLD,Core course,English,1
+4th Year,First term,Trig/Algebra III,Requested,5407506,278077,2,MATHALGIII,Core course,Mathematics,1
+4th Year,First term,Anatomy & Physiology,Requested,5407506,278093,1,SCIANATPH,Elective,Science,0.5
+4th Year,First term,Physical Science,Recommended,5407506,278099,2,SCIPHY,Core course,Science,1
+4th Year,First term,American Government & Politics,Recommended,5407506,278100,2,SOC10GOV,Core course,Social Studies,1
+4th Year,First term,World History,Recommended,5407506,278102,2,SOC11,Core course,Social Studies,1
+4th Year,First term,Executive Internship I,Requested,5407506,288569,1,INTERN1,Elective,Career Study,0.5
+4th Year,Second Term,Executive Internship II,Requested,5407506,288570,1,INTERN2,Elective,Career Study,0.5
+4th Year,First term,Dual Enrollment English 151,Recommended,5419610,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Trig/Algebra III,Recommended,5419610,278077,2,MATHALGIII,Core course,Mathematics,1
+4th Year,First term,Bible 12,Required,5419610,278036,2,BIB12,Core course,Bible,1
+1st Year,First term,English 9,Requested,5407481,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5407481,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5407481,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Algebra 1 Honors,Requested,5407481,278069,2,MATALG1H,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5407481,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Digital Imaging & Editing,Requested,5407481,278113,1,TECHDIGIT,Core course,Technology,0.5
+1st Year,Second Term,Graphic Design,Requested,5407481,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+1st Year,First term,Physical Education - High ,Requested,5407481,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,Second Term,Health - High ,Requested,5407481,278087,1,PEHealthHS,Core course,Physical Education,0.5
+3rd year,First term,Bible 11,Required,5361903,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5361903,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Trig/Algebra III,Requested,5361903,278077,2,MATHALGIII,Core course,Mathematics,1
+3rd year,First term,Physical Science,Requested,5361903,278099,2,SCIPHY,Core course,Science,1
+3rd year,First term,World History,Requested,5361903,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Spanish II,Requested,5361903,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,Any term,Physical Education - High ,Requested,5361903,278088,1,PEHS,Core course,Physical Education,0.5
+3rd year,Any term,Health - High ,Requested,5361903,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,First term,English 9 Honors,Requested,5361816,278059,2,ENG9H,Core course,English,1
+1st Year,First term,Bible 9,Required,5361816,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361816,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Geometry Honors,Requested,5361816,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,Biology Honors,Requested,5361816,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Physical Education - High ,Requested,5361816,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,Second Term,Health - High ,Requested,5361816,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,First term,Spanish I,Requested,5361816,278064,2,LANSP1,Core course,Foreign Language,1
+4th Year,First term,Bible 12,Required,5361917,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,World Literature,Requested,5361917,278053,2,ENG12WORLD,Core course,English,1
+4th Year,First term,Digital Imaging & Editing,Requested,5361917,278113,1,TECHDIGIT,Core course,Technology,0.5
+4th Year,Second Term,Graphic Design,Requested,5361917,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+4th Year,First term,Dual Enrollment Biology 101,Requested,5361917,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,Second Term,Marine Biology,Requested,5361917,278098,1,SCIMABIO,Elective,Science,0.5
+4th Year,First term,Personal Fitness,Requested,5361917,278089,1,PEPF,Elective,Physical Education,0.5
+4th Year,Second Term,Recreational Sports,Requested,5361917,282758,1,PERS,Elective,Physical Education,0.5
+4th Year,First term,Dual Enrollment English 151,Recommended,5361917,278044,1,DEENG151,Core course,English,0.5
+4th Year,Second Term,Dual Enrollment Statistics 152,Requested,5361917,278073,1,MATDESTATS,Core course,Mathematics,0.5
+4th Year,First term,Study Hall,Requested,5361917,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Statistics Honors,Requested,5361917,278079,1,MATHSTATSH,Core course,Mathematics,0.5
+3rd year,First term,Bible 11,Required,5361888,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361888,278051,2,ENG11,Core course,English,1
+3rd year,First term,World History,Requested,5361888,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Anatomy & Physiology,Requested,5361888,278093,1,SCIANATPH,Elective,Science,0.5
+3rd year,Second Term,Marine Biology,Requested,5361888,278098,1,SCIMABIO,Elective,Science,0.5
+3rd year,First term,Algebra II,Requested,5361888,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Spanish II,Requested,5361888,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,First term,Financial Literacy,Requested,5361888,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,Second Term,Speech Communications,Requested,5361888,278061,1,ENGSPCH,Elective,English,0.5
+1st Year,First term,Biology,Recommended,5361805,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Geometry Honors,Recommended,5361805,278076,2,MATGEOMH,Core course,Mathematics,1
+4th Year,First term,Bible 12,Required,5361935,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment English 151,Requested,5361935,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Dual Enrollment Biology 101,Requested,5361935,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,AP Calculus A/B,Requested,5361935,278072,2,MATAPCALCAB,Core course,Mathematics,1
+4th Year,Second Term,Dual Enrollment Chemistry 105,Requested,5361935,278042,1,DECHEM105,Core course,Science,0.5
+4th Year,First term,Executive Internship I,Requested,5361935,288569,1,INTERN1,Elective,Career Study,0.5
+4th Year,Second Term,Executive Internship II,Requested,5361935,288570,1,INTERN2,Elective,Career Study,0.5
+4th Year,First term,Study Hall,Requested,5361935,280091,2,STUDY,Core course,Social Studies,0
+3rd year,First term,Bible 11,Required,5361898,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361898,278051,2,ENG11,Core course,English,1
+3rd year,First term,Trig/Pre-Calculus Hon,Requested,5361898,278083,2,MATTrigH,Core course,Mathematics,1
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5361898,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,Chemistry Honors,Requested,5361898,278096,2,SCICHEM10H,Core course,Science,1
+3rd year,First term,Drawing and Painting,Requested,5361898,278028,2,ARTDRAW,Core course,Fine Arts,1
+3rd year,First term,Spanish III,Requested,5361898,278066,2,LANSP3,Core course,Foreign Language,1
+3rd year,First term,Trig/PreCalculus,Recommended,5361898,278082,2,MATTRIG,Core course,Mathematics,1
+3rd year,First term,World History,Recommended,5361898,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Bible 11,Required,5361878,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361878,278051,2,ENG11,Core course,English,1
+3rd year,First term,Physical Science,Requested,5361878,278099,2,SCIPHY,Core course,Science,1
+3rd year,First term,World History,Requested,5361878,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Algebra II,Requested,5361878,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Studio Art I,Requested,5361878,278032,1,ARTSTD1,Core course,Fine Arts,0.5
+3rd year,Second Term,Studio Art II,Requested,5361878,278033,1,ARTSTD2,Core course,Fine Arts,0.5
+3rd year,First term,Spanish II,Requested,5361878,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Bible 10,Required,5407497,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,Alg II Honors,Requested,5407497,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,English 10,Requested,5407497,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5407497,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5407497,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Spanish II,Requested,5407497,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,Any term,Health - High ,Requested,5407497,278087,1,PEHealthHS,Core course,Physical Education,0.5
+2nd Year,First term,English 10 Honors,Recommended,5407497,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Chemistry Honors,Recommended,5407497,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics Honors,Recommended,5407497,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,Any term,Physical Education - High ,Requested,5407497,278088,1,PEHS,Core course,Physical Education,0.5
+3rd year,First term,Bible 11,Required,5407556,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5407556,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,American Literature Honors,Requested,5407556,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Alg II Honors,Requested,5407556,278071,2,MATALG2H,Core course,Mathematics,1
+3rd year,First term,Chemistry Honors,Requested,5407556,278096,2,SCICHEM10H,Core course,Science,1
+3rd year,First term,Chorus - High ,Requested,5407556,278027,2,ARTChor,Core course,Fine Arts,1
+3rd year,First term,Digital Imaging & Editing,Requested,5407556,278113,1,TECHDIGIT,Core course,Technology,0.5
+3rd year,Second Term,Graphic Design,Requested,5407556,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+2nd Year,First term,Bible 10,Required,5361868,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5361868,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5361868,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361868,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Algebra II,Requested,5361868,278070,2,MATALG2,Core course,Mathematics,1
+2nd Year,First term,Spanish II,Requested,5361868,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,Second Term,Health - High ,Requested,5361868,278087,1,PEHealthHS,Core course,Physical Education,0.5
+2nd Year,First term,Physical Education - High ,Requested,5361868,278088,1,PEHS,Core course,Physical Education,0.5
+2nd Year,First term,Chemistry Honors,Recommended,5361868,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,Alg II Honors,Recommended,5361844,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,American Government & Politics Honors,Recommended,5361844,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Chemistry Honors,Recommended,5361844,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,English 10 Honors,Recommended,5361844,278050,2,ENG10H,Core course,English,1
+4th Year,First term,Bible 12,Required,5361911,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment English 151,Requested,5361911,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Trig/Pre-Calculus Hon,Requested,5361911,278083,2,MATTrigH,Core course,Mathematics,1
+4th Year,First term,Anatomy & Physiology,Requested,5361911,278093,1,SCIANATPH,Elective,Science,0.5
+4th Year,First term,Dual Enrollment World Civ. 101,Requested,5361911,278048,1,DEWCIV1,Core course,Social Studies,0.5
+4th Year,Second Term,Dual Enrollment World Civ. 151,Requested,5361911,278047,1,DESOCWCIV2,Core course,Social Studies,0.5
+4th Year,First term,Study Hall,Requested,5361911,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Yearbook,Requested,5361911,278116,2,TECHYEAR,Elective,Technology,1
+4th Year,Second Term,Studio Art II,Requested,5361911,278033,1,ARTSTD2,Core course,Fine Arts,0.5
+4th Year,First term,Trig/PreCalculus,Recommended,5361911,278082,2,MATTRIG,Core course,Mathematics,1
+4th Year,First term,Bible 12,Required,5361919,278036,2,BIB12,Core course,Bible,1
+4th Year,Second Term,Recreational Sports,Requested,5361919,282758,1,PERS,Elective,Physical Education,0.5
+4th Year,First term,Personal Fitness,Requested,5361919,278089,1,PEPF,Elective,Physical Education,0.5
+4th Year,First term,Dual Enrollment Biology 101,Recommended,5361919,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,American Literature Honors,Recommended,5361919,278052,1,ENG11AMLTH-,Core course,English,0.5
+4th Year,First term,Statistics Honors,Recommended,5361919,278079,1,MATHSTATSH,Core course,Mathematics,0.5
+4th Year,First term,Dual Enrollment English 151,Requested,5361919,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Study Hall,Requested,5361919,280091,2,STUDY,Core course,Social Studies,0
+1st Year,First term,Biology,Recommended,5361822,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Geometry,Recommended,5361822,278075,2,MATGEOM,Core course,Mathematics,1
+1st Year,First term,English 9 Honors,Requested,5361822,278059,2,ENG9H,Core course,English,1
+1st Year,First term,Bible 9,Required,5361822,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361822,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Biology Honors,Requested,5361822,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Geometry Honors,Requested,5361822,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,Health - High ,Requested,5361822,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,Second Term,Physical Education - High ,Requested,5361822,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,First term,Spanish I,Requested,5361822,278064,2,LANSP1,Core course,Foreign Language,1
+4th Year,First term,Bible 12,Required,5361927,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Study Hall,Requested,5361927,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Dual Enrollment English 151,Requested,5361927,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,AP Computer Science,Requested,5361927,298024,2,APComp,Core course,"Technology, Mathematics",1
+4th Year,First term,Spanish III,Requested,5361927,278066,2,LANSP3,Core course,Foreign Language,1
+4th Year,First term,Drawing and Painting,Requested,5361927,278028,2,ARTDRAW,Core course,Fine Arts,1
+4th Year,First term,Health - High ,Requested,5361927,278087,1,PEHealthHS,Core course,Physical Education,0.5
+4th Year,Second Term,Physical Education - High ,Requested,5361927,278088,1,PEHS,Core course,Physical Education,0.5
+4th Year,First term,Bible 12,Required,5361933,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Trig/Algebra III,Requested,5361933,278077,2,MATHALGIII,Core course,Mathematics,1
+4th Year,First term,World Literature,Requested,5361933,278053,2,ENG12WORLD,Core course,English,1
+4th Year,First term,Study Hall,Requested,5361933,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Drawing and Painting,Requested,5361933,278028,2,ARTDRAW,Core course,Fine Arts,1
+4th Year,Any term,Financial Literacy,Requested,5361933,278063,1,FINLIT,Core course,Social Studies,0.5
+4th Year,First term,Executive Internship I,Requested,5361933,288569,1,INTERN1,Elective,Career Study,0.5
+4th Year,Second Term,Executive Internship II,Requested,5361933,288570,1,INTERN2,Elective,Career Study,0.5
+2nd Year,First term,Bible 10,Required,5407494,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10 Honors,Requested,5407494,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Alg II Honors,Requested,5407494,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,American Government & Politics Honors,Requested,5407494,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Biology,Requested,5407494,278094,2,SCIBIO,Core course,Science,1
+2nd Year,First term,Spanish II,Requested,5407494,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Band - High ,Requested,5407494,278023,2,ARTBND,Core course,Fine Arts,1
+2nd Year,First term,American Government & Politics,Recommended,5407494,278100,2,SOC10GOV,Core course,Social Studies,1
+3rd year,First term,Bible 11,Required,5361889,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature,Requested,5361889,278051,2,ENG11,Core course,English,1
+3rd year,First term,Trig/PreCalculus,Requested,5361889,278082,2,MATTRIG,Core course,Mathematics,1
+3rd year,First term,Chemistry Honors,Requested,5361889,278096,2,SCICHEM10H,Core course,Science,1
+3rd year,First term,World History,Requested,5361889,278102,2,SOC11,Core course,Social Studies,1
+3rd year,First term,Spanish II,Requested,5361889,278065,2,LANSP2,Core course,Foreign Language,1
+3rd year,Any term,Financial Literacy,Requested,5361889,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,Any term,Faith & Film,Requested,5361889,278062,1,FAF,Elective,Bible,0.5
+2nd Year,First term,Bible 10,Required,5361871,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361871,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Algebra II,Requested,5361871,278070,2,MATALG2,Core course,Mathematics,1
+2nd Year,First term,Chemistry Honors,Requested,5361871,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5361871,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Spanish II,Requested,5361871,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,Any term,Health - High ,Requested,5361871,278087,1,PEHealthHS,Core course,Physical Education,0.5
+2nd Year,First term,English 10 Honors,Recommended,5361871,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Alg II Honors,Recommended,5361871,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,Any term,Physical Education - High ,Requested,5361871,278088,1,PEHS,Core course,Physical Education,0.5
+2nd Year,First term,Bible 10,Required,5407560,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5407560,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5407560,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5407560,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Spanish I,Requested,5407560,278064,2,LANSP1,Core course,Foreign Language,1
+2nd Year,First term,Digital Imaging & Editing,Requested,5407560,278113,1,TECHDIGIT,Core course,Technology,0.5
+2nd Year,Second Term,Graphic Design,Requested,5407560,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+2nd Year,First term,Geometry Honors,Requested,5407560,278076,2,MATGEOMH,Core course,Mathematics,1
+1st Year,First term,English 9,Requested,5361813,278058,2,ENG9,Core course,English,1
+1st Year,First term,Bible 9,Required,5361813,278040,2,BIB9,Core course,Bible,1
+1st Year,First term,US History,Required,5361813,278106,2,SOC9,Core course,Social Studies,1
+1st Year,First term,Algebra 1 Honors,Requested,5361813,278069,2,MATALG1H,Core course,Mathematics,1
+1st Year,First term,Biology,Requested,5361813,278094,2,SCIBIO,Core course,Science,1
+1st Year,First term,Physical Education - High ,Requested,5361813,278088,1,PEHS,Core course,Physical Education,0.5
+1st Year,Second Term,Health - High ,Requested,5361813,278087,1,PEHealthHS,Core course,Physical Education,0.5
+1st Year,First term,Digital Imaging & Editing,Requested,5361813,278113,1,TECHDIGIT,Core course,Technology,0.5
+1st Year,Second Term,Graphic Design,Requested,5361813,278114,1,TECHGRAPHIC,Core course,Technology,0.5
+1st Year,First term,Biology Honors,Recommended,5407590,278095,2,SCIBIOH,Core course,Science,1
+1st Year,First term,Geometry Honors,Recommended,5407590,278076,2,MATGEOMH,Core course,Mathematics,1
+3rd year,First term,Bible 11,Required,5361873,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5361873,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5361873,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,Alg II Honors,Requested,5361873,278071,2,MATALG2H,Core course,Mathematics,1
+3rd year,First term,Anatomy & Physiology,Requested,5361873,278093,1,SCIANATPH,Elective,Science,0.5
+3rd year,Second Term,Marine Biology,Requested,5361873,278098,1,SCIMABIO,Elective,Science,0.5
+3rd year,First term,Drawing and Painting,Requested,5361873,278028,2,ARTDRAW,Core course,Fine Arts,1
+3rd year,First term,Spanish II,Requested,5361873,278065,2,LANSP2,Core course,Foreign Language,1
+4th Year,First term,Bible 12,Required,5361925,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,Dual Enrollment English 151,Requested,5361925,278044,1,DEENG151,Core course,English,0.5
+4th Year,First term,Trig/PreCalculus,Requested,5361925,278082,2,MATTRIG,Core course,Mathematics,1
+4th Year,First term,Yearbook,Requested,5361925,278116,2,TECHYEAR,Elective,Technology,1
+4th Year,First term,Chorus - High ,Requested,5361925,278027,2,ARTChor,Core course,Fine Arts,1
+4th Year,First term,Study Hall,Requested,5361925,280091,2,STUDY,Core course,Social Studies,0
+4th Year,First term,Dual Enrollment Biology 101,Recommended,5361925,278041,1,DEBIO101,Core course,Science,0.5
+4th Year,First term,Alg II Honors,Recommended,5361925,278071,2,MATALG2H,Core course,Mathematics,1
+4th Year,Second Term,Contemporary Issues,Requested,5361925,300217,1,SOCCONT,Elective,Social Studies,0.5
+2nd Year,First term,Bible 10,Required,5361845,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5361845,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Algebra II,Requested,5361845,278070,2,MATALG2,Core course,Mathematics,1
+2nd Year,First term,Earth and Space Science,Requested,5361845,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics Honors,Requested,5361845,278101,2,SOC10GOVH,Core course,Social Studies,1
+2nd Year,First term,Spanish II,Requested,5361845,278065,2,LANSP2,Core course,Foreign Language,1
+2nd Year,First term,Chorus - High ,Requested,5361845,278027,2,ARTChor,Core course,Fine Arts,1
+2nd Year,First term,English 10 Honors,Recommended,5361845,278050,2,ENG10H,Core course,English,1
+2nd Year,First term,Alg II Honors,Recommended,5361845,278071,2,MATALG2H,Core course,Mathematics,1
+2nd Year,First term,Chemistry Honors,Recommended,5361845,278096,2,SCICHEM10H,Core course,Science,1
+2nd Year,First term,Bible 10,Required,5407519,278034,2,BIB10,Core course,Bible,1
+2nd Year,First term,English 10,Requested,5407519,278049,2,ENG10,Core course,English,1
+2nd Year,First term,Earth and Space Science,Requested,5407519,278097,2,SCIERTH,Core course,Science,1
+2nd Year,First term,American Government & Politics,Requested,5407519,278100,2,SOC10GOV,Core course,Social Studies,1
+2nd Year,First term,Algebra II,Requested,5407519,278070,2,MATALG2,Core course,Mathematics,1
+2nd Year,First term,Broadcast Journalism,Requested,5407519,282765,2,TECHBRJR,Core course,Technology,1
+2nd Year,First term,Drawing and Painting,Requested,5407519,278028,2,ARTDRAW,Core course,Fine Arts,1
+3rd year,First term,Bible 11,Required,5361887,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,American Literature Honors,Requested,5361887,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5361887,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,Physics Honors,Requested,5361887,282762,2,SCIPHYH,Core course,Science,1
+3rd year,First term,Algebra II,Requested,5361887,278070,2,MATALG2,Core course,Mathematics,1
+3rd year,First term,Band - High ,Requested,5361887,278023,2,ARTBND,Core course,Fine Arts,1
+3rd year,First term,Spanish I,Requested,5361887,278064,2,LANSP1,Core course,Foreign Language,1
+3rd year,First term,Bible 11,Required,5361877,278035,2,BIB11,Core course,Bible,1
+3rd year,First term,Dual Enrollment World Civ. 101,Requested,5361877,278048,1,DEWCIV1,Core course,Social Studies,0.5
+3rd year,First term,American Literature Honors,Requested,5361877,278052,1,ENG11AMLTH-,Core course,English,0.5
+3rd year,First term,Trig/Pre-Calculus Hon,Requested,5361877,278083,2,MATTrigH,Core course,Mathematics,1
+3rd year,First term,Physics Honors,Requested,5361877,282762,2,SCIPHYH,Core course,Science,1
+3rd year,Any term,Financial Literacy,Requested,5361877,278063,1,FINLIT,Core course,Social Studies,0.5
+3rd year,First term,Study Hall,Requested,5361877,280091,2,STUDY,Core course,Social Studies,0
+3rd year,Any term,Health - High ,Requested,5361877,278087,1,PEHealthHS,Core course,Physical Education,0.5
+4th Year,First term,Bible 12,Required,5361934,278036,2,BIB12,Core course,Bible,1
+4th Year,First term,World Literature,Requested,5361934,278053,2,ENG12WORLD,Core course,English,1
+4th Year,First term,AP Computer Science,Requested,5361934,298024,2,APComp,Core course,"Technology, Mathematics",1
+4th Year,Any term,Health - High ,Requested,5361934,278087,1,PEHealthHS,Core course,Physical Education,0.5
+4th Year,First term,Chemistry Honors,Recommended,5361934,278096,2,SCICHEM10H,Core course,Science,1
+4th Year,First term,Study Hall,Requested,5361934,280091,2,STUDY,Core course,Social Studies,0

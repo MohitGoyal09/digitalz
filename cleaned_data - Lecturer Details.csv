@@ -1,0 +1,84 @@
+lecturer_id,lecture_title,lecture_code,length,start_term,section_number
+5361519,Band - High ,ARTBND,2,1,1
+5361487,Chorus - High ,ARTChor,2,1,1
+5361415,Drawing and Painting,ARTDRAW,2,1,1
+5361415,Studio Art I,ARTSTD1,1,1,1
+5361415,Studio Art II,ARTSTD2,1,2,1
+5361400,Bible 10,BIB10,2,1,1
+5361400,Bible 10,BIB10,2,1,2
+5361417,Bible 11,BIB11,2,1,1
+5361417,Bible 11,BIB11,2,1,2
+5361454,Bible 12,BIB12,2,1,1
+5361454,Bible 12,BIB12,2,1,2
+5361454,Bible 9,BIB9,2,1,1
+5361400,Bible 9,BIB9,2,1,2
+5361498,Dual Enrollment Biology 101,DEBIO101,1,1,1
+5361498,Dual Enrollment Chemistry 105,DECHEM105,1,2,1
+5361474,Dual Enrollment English 101,DEENG101,1,2,1
+5361474,Dual Enrollment English 151,DEENG151,1,1,1
+5361457,Dual Enrollment Intro. to Teaching 201,DEITCHG,1,2,1
+5361457,Dual Enrollment Intro. to Psych. 101,DESOCIP,1,1,1
+5361422,Dual Enrollment World Civ. 151,DESOCWCIV2,1,2,1
+5361422,Dual Enrollment World Civ. 101,DEWCIV1,1,1,1
+5361474,English 10,ENG10,2,1,1
+5361474,English 10 Honors,ENG10H,2,1,1
+5322089,American Literature,ENG11,2,1,1
+5361474,American Literature Honors,ENG11AMLTH-,1,1,1
+5361474,World Literature,ENG12WORLD,2,1,1
+5361474,World Literature Honors,ENG12WORLDH,1,2,1
+5322089,English 9,ENG9,2,1,1
+5322089,English 9 Honors,ENG9H,2,1,1
+5322089,Speech Communications,ENGSPCH,1,2,1
+5361400,Faith & Film,FAF,1,1,1
+5361400,Faith & Film,FAF,1,2,2
+5361461,Financial Literacy,FINLIT,1,1,1
+5361461,Financial Literacy,FINLIT,1,2,2
+5361540,Spanish I,LANSP1,2,1,1
+5361540,Spanish I,LANSP1,2,1,2
+5361540,Spanish II,LANSP2,2,1,1
+5361540,Spanish II,LANSP2,2,1,2
+5361540,Spanish III,LANSP3,2,1,1
+5361526,Algebra 1,MATALG1,2,1,1
+5361526,Algebra 1 Honors,MATALG1H,2,1,1
+5361380,Algebra II,MATALG2,2,1,1
+5361420,Algebra II,MATALG2,2,1,2
+5407259,Alg II Honors,MATALG2H,2,1,1
+5361412,AP Calculus A/B,MATAPCALCAB,2,1,1
+5361412,Dual Enrollment Statistics 152,MATDESTATS,1,2,1
+5407259,Geometry,MATGEOM,2,1,2
+5407259,Geometry Honors,MATGEOMH,2,1,1
+5361412,Trig/Algebra III,MATHALGIII,2,1,1
+5361412,Statistics Honors,MATHSTATSH,1,1,1
+5361412,Trig/PreCalculus,MATTRIG,2,1,1
+5361412,Trig/Pre-Calculus Hon,MATTrigH,2,1,1
+5361411,Health - High ,PEHealthHS,1,1,2
+5361411,Health - High ,PEHealthHS,1,2,1
+5361411,Health - High ,PEHealthHS,1,2,3
+5361411,Physical Education - High ,PEHS,1,1,1
+5361411,Physical Education - High ,PEHS,1,2,2
+5361411,Personal Fitness,PEPF,1,1,1
+5361498,Anatomy & Physiology,SCIANATPH,1,1,1
+5361409,Biology,SCIBIO,2,1,1
+5361409,Biology Honors,SCIBIOH,2,1,1
+5361498,Chemistry Honors,SCICHEM10H,2,1,1
+5361498,Chemistry Honors,SCICHEM10H,2,1,2
+5361409,Earth and Space Science,SCIERTH,2,1,1
+5361409,Earth and Space Science,SCIERTH,2,1,2
+5361526,Marine Biology,SCIMABIO,1,2,1
+5361526,Physical Science,SCIPHY,2,1,1
+5361492,American Government & Politics,SOC10GOV,2,1,1
+5361492,American Government & Politics,SOC10GOV,2,1,2
+5361492,American Government & Politics Honors,SOC10GOVH,2,1,1
+5361461,World History,SOC11,2,1,1
+5361492,US History,SOC9,2,1,1
+5361492,US History,SOC9,2,1,2
+5322089,Introduction to Business,SOCIB,1,1,1
+5361516,Advanced Robotics,TECHADVROB,2,1,1
+5361516,Digital Imaging & Editing,TECHDIGIT,1,1,1
+5361516,Graphic Design,TECHGRAPHIC,1,2,1
+5361516,Graphic Design,TECHGRAPHIC,1,2,2
+5396676,Yearbook,TECHYEAR,2,1,1
+5361411,Recreational Sports,PERS,1,2,1
+5361498,Physics Honors,SCIPHYH,2,1,1
+5361516,AP Computer Science,APComp,2,1,1
+5322089,Journalism,ENGJOUR,2,1,1

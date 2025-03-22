@@ -1,0 +1,24 @@
+s._no.,rules
+1,"The  has N number of blocks - namely : [""1A"",""1B"",""2A"",""2B"",""3"",""4A"",""4B""]"
+2,"Blocks refer to fixed time periods or chunks of time during the  day when specific classes or activities are scheduled. Unlike traditional period-based systems (common in countries like India, where the day is divided into short, equal periods like ""Period 1,"" ""Period 2,"" etc.), block scheduling organizes the day into longer, continuous time segments called Blocks. Each block typically lasts between 60 to 120 minutes, depending on the 's structure.
+
+For example, a  might have four blocks in a day:
+
+1. Block 1A: 8:00 AM - 9:30 AM
+2. Block 1B: 9:45 AM - 11:15 AM
+3. Block 2A: 11:30 AM - 1:00 PM
+4. Block 2B: 1:30 PM - 3:00 PM
+
+Each block is assigned to specific subjects, activities, or courses. For instance, Block 1A might be reserved for Mathematics, while Block 1B could be for Science. This system allows for more focused and immersive learning experiences, as students spend longer periods on fewer subjects each day.
+
+In the context of Crestwood High, blocks were essential for scheduling courses like Chorus - High  and Band - High , ensuring that students like Emily and Liam could pursue their interests without conflicts."
+3,No teacher can be present twice in same block
+4,No student can be present twice in same block
+5,"You need to assign student to section of the requested course in a particular block so that we 
+maximize the number of resolutions of students requests received"
+6,Students of different year can be assigned to same sections if they have requested for the same course 
+7,No sections should be overcrowded - distribute the course requested students almost equally across the available sections of that particular course
+8,"""Required"" > ""Requested"" > ""Recommended"", 
+this is the order of priority of requests, treat it as P1, P2, P3 "
+9,"Available blocks & Unavailable blocks columns in Course list are exactly what they sound like, you can schedule sections of those courses only in one of the blocks available in `Available Blocks` list "
+10,"Length / Course Length (1 = One Term, 2 = Full Year) / Credits determine if the course will run for the entire year or Half a year "
